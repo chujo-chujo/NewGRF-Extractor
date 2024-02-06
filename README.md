@@ -41,4 +41,4 @@ Now you can use this software to do it in seconds.
 ## Contact
 
 @chujo on OpenTTD's Discord ([discord.gg/openttd](https://discord.gg/openttd))
-or on [TT-Forums](https://www.tt-forums.net/)
+or on [TT-Forums](https://www.tt-forums.net/viewtopic.php?t=91471)
