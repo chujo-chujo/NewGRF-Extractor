@@ -35,7 +35,7 @@ Now you can use this software to do it in seconds.
 
 7. In a case of one or more missing files, you will be informed of their count and names.
 
-![Step 4](/_readme/3.png)
+![Step 4](/_readme/4.png)
 
 
 ## More info
