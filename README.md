@@ -18,14 +18,14 @@ Now you can use this software to do it in seconds.
 ## Manual
 
 1. Unpack the ZIP archive.
-2. 'NewGRF_Extractor.exe' needs to be in the OpenTTD user files folder, right next to 'openttd.cfg'.
+2. 'NewGRF_Extractor.exe' needs to be in the **OpenTTD user files** folder, right next to 'openttd.cfg'.<br />
    (If you're on Windows, it’s likely _C:\Users\your_username\Documents\OpenTTD_)
-3. Run the app. The first thing you see should be a list of your presets.
+4. Run the app. The first thing you see should be a list of your presets.
 
 ![Step 1](/_readme/1.png)
 
 4. When you click on a preset, its NewGRFs will be displayed.
-5. To choose the destination directory, use the button "Copy NewGRFs to...".
+5. To choose the destination directory, use the button **'Copy NewGRFs to...'**.
 
 ![Step 2](/_readme/2.png)
 
@@ -38,7 +38,7 @@ Now you can use this software to do it in seconds.
 ![Step 4](/_readme/4.png)
 
 
-## More info
+## Contact
 
 @chujo on OpenTTD's Discord ([discord.gg/openttd](https://discord.gg/openttd))
 or on [TT-Forums](https://www.tt-forums.net/)
